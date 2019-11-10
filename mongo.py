@@ -54,7 +54,7 @@ db = conn.stu
 
 # 创建集合对象
 myset = db.class4
-
+==========================
 # 数据操作
 # myset.insert_one({"name":"张铁林","king":"乾隆"})
 # myset.insert_many([{"name": "张国立", "king": "康熙"},
